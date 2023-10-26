@@ -1,0 +1,15 @@
+body{
+  background-color: yellow;
+}
+#counter{
+  display: block;
+  text-align: center;
+  font-size: 50px;
+}
+.btn{
+  justify-content: center;
+  text-align: center;
+}
+#decrease,#reset,#increase{
+  font-size: 20px;
+}
